@@ -1,3 +1,3 @@
 # Docker-Ruby
 
-A custom image which include docker, ruby and docker-compose
+A custom image which include docker, ruby and docker-compose.
